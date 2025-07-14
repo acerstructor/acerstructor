@@ -1,16 +1,38 @@
-## Hi there 👋
-
+## Greetings! I'm Jerico Despe (@acerstructor) 👋
+- Aspiring software and game developer, learning something new daily (even in hardware level)!
+- Also a digital artist (2D illustrator and pixel-artist)
+---
+## 💭 Status
+- Currently working with @Kendja on Worldbox as one of the pixel artists
+- Reading books about 
 <!--
-**acerstructor/acerstructor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🎯 Agenda 
+--->
+---
+## 🛠 Tech Stack & Tools
+**Languages:**  
+- **C & C++** (my favorite!)
+- C#
+- Rust (currently learning)
+<!--
+Note:
+Programming languages which I've listed below the comment are
+just for fun, which I use 
+--->
+For Hobby...
+- 6502 Assembly (for Atari and NES gamedev)
+- x86/x64 Assembly
 
-Here are some ideas to get you started:
+**Tools I Love:**  
+- Vim
+- Radare2 (for reverse engineering)
+- Aseprite
+- Krita
+---
+<!--
+My Favorite Bible Verse:
+--->
+**Matthew 5:16 KJV**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.
