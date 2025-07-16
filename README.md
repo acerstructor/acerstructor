@@ -4,7 +4,7 @@
 ---
 ## 💭 Status
 - Currently working with @Kendja on Worldbox as one of the pixel artists
-- Reading books about 
+- Reading books about Linear Algebra
 <!--
 ---
 ## 🎯 Agenda 
