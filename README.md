@@ -3,7 +3,7 @@
 - Also a digital artist (2D illustrator and pixel-artist)
 ---
 ## 💭 Status
-- Currently working with @Kendja on Worldbox as one of the pixel artists
+- Currently working with @Kendja's God Sim called Worldbox, as one of the pixel artists
 - Reading books about Linear Algebra
 <!--
 ---
