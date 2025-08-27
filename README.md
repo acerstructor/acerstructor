@@ -4,7 +4,7 @@
 ---
 ## 💭 Status
 - Currently working with @Kendja's God Sim called Worldbox, as one of the pixel artists
-- Reading books about Linear Algebra
+- Developing a construction management simulator game during my spare time
 <!--
 ---
 ## 🎯 Agenda 
