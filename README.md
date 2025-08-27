@@ -14,7 +14,7 @@
 **Languages:**  
 - **C & C++** (my favorite!)
 - C#
-- Rust (currently learning)
+- Rust
 <!--
 Note:
 Programming languages which I've listed below the comment are
