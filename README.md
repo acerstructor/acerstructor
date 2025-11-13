@@ -29,6 +29,7 @@ For Hobby...
 - Radare2 (for reverse engineering)
 - Aseprite
 - Krita
+- Inkscape
 - Blender
 ---
 <!--
