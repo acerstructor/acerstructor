@@ -35,5 +35,6 @@ For Hobby...
 <!--
 My Favorite Bible Verse:
 --->
-**Philippians 4:13 KJV**
-I can do all things through Christ which strengtheneth me.
+**Deutoronomy 31:8**
+
+The LORD himself goes before you and will be with you; he will never leave you nor forsake you. Do not be afraid; do not be discouraged. 
